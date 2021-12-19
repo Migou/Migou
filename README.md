@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Migou
-- 👀 I’m interested in language
+- 👀 I’m interested in languages, especially russian
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on ... well I don't have time by now
 - 📫 How to reach me : hxaosa@yahoo.fr
