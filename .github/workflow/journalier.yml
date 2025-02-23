@@ -1,7 +1,7 @@
 name: Envoi journalier
 on:
   schedule:
-    - cron: "0 11 35 * *"  # Exécute tous les jours à 7h UTC
+    - cron: "0 11 43 * *"  # Exécute tous les jours à 7h UTC
 
 jobs:
   request:
