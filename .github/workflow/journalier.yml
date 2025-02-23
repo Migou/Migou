@@ -1,0 +1,11 @@
+name: Envoi journalier
+on:
+  schedule:
+    - cron: "0 11 35 * *"  # Exécute tous les jours à 7h UTC
+
+jobs:
+  request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send HTTP Request
+        run: curl -X GET "https://decode.ouvaton.org/common/notifications.php"
